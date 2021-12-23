@@ -1,0 +1,1013 @@
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe.config
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\FormXVN.pdb
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\FormXVN.xml
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\CapaLN.exe
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\CapaNE.exe
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\capaDA.exe
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\CapaLN.pdb
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\CapaLN.xml
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\CapaNE.pdb
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\CapaNE.xml
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\capaDA.pdb
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\capaDA.xml
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\capaDA.exe.config
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.AssemblyReference.cache
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Articulos.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Categoria.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Marcas.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarArticulo.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCategoria.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarMarca.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaCategoria.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaMarca.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoArticulo.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProducto.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProveedor.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CompraDetalle.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Compras.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCompra.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Clientes.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ConsultarCliente.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscClienteVtas.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarOrdTrab.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EntregaDeEquipos.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EnviarMail.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Modificar_Estado_OT.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.OrdenDeTRabajo.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerOrdenTRab.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarProveedor.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarProveedor.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistoricoStock.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ImprimirMinStock.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarStock.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarStock.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Sotck.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerMinStock.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Habilitar_o_Deshabilitar_Usuario.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Login.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.XVN.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCliente.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarUsuario.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Resources.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Proveedores.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCliente.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarUsuario.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaDePreciosULim.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoPr.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistorialPrecios.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecios.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosProveedor.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarPrecios.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Usuarios.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ActualizacionPrecios.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecVta.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosVentas.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoVenta.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CliBuscVta.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetalleVta.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarVenta.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Ventas.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.GenerateResource.cache
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.CoreCompileInputs.cache
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.CopyComplete
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.exe
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.xml
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.pdb
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.AssemblyReference.cache
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Articulos.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Categoria.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Marcas.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarArticulo.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCategoria.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarMarca.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaCategoria.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaMarca.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoArticulo.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProducto.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProveedor.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CompraDetalle.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Compras.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCompra.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Clientes.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ConsultarCliente.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscClienteVtas.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarOrdTrab.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EntregaDeEquipos.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EnviarMail.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Modificar_Estado_OT.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.OrdenDeTRabajo.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerOrdenTRab.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarProveedor.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarProveedor.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistoricoStock.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ImprimirMinStock.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarStock.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarStock.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Sotck.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerMinStock.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Habilitar_o_Deshabilitar_Usuario.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Login.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.XVN.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCliente.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarUsuario.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Resources.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Proveedores.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCliente.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarUsuario.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaDePreciosULim.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoPr.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistorialPrecios.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecios.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosProveedor.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarPrecios.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Usuarios.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ActualizacionPrecios.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecVta.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosVentas.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoVenta.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CliBuscVta.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetalleVta.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarVenta.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Ventas.resources
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.GenerateResource.cache
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.CoreCompileInputs.cache
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe.config
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\FormXVN.pdb
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\FormXVN.xml
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\CapaLN.exe
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\CapaNE.exe
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\capaDA.exe
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\CapaLN.pdb
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\CapaLN.xml
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\CapaNE.pdb
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\CapaNE.xml
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\capaDA.pdb
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\capaDA.xml
+D:\BD\nuevo\Practica2XVN\FormXVN\bin\Debug\capaDA.exe.config
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.CopyComplete
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.exe
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.xml
+D:\BD\nuevo\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.pdb
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionArticulo.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificacionMasiva.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaServicios.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.AgregarServicio.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarServicio.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoPresupuestos.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarClientePresupuesto.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionarServicio.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PlanillaPresupuestos.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe.config
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.exe
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.xml
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.pdb
+D:\Practica 20-10\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe
+D:\Practica 20-10\Practica2XVN\FormXVN\bin\Debug\FormXVN.pdb
+D:\Practica 20-10\Practica2XVN\FormXVN\bin\Debug\FormXVN.xml
+D:\Practica 20-10\Practica2XVN\FormXVN\bin\Debug\CapaLN.exe
+D:\Practica 20-10\Practica2XVN\FormXVN\bin\Debug\CapaNE.exe
+D:\Practica 20-10\Practica2XVN\FormXVN\bin\Debug\capaDA.exe
+D:\Practica 20-10\Practica2XVN\FormXVN\bin\Debug\CapaLN.pdb
+D:\Practica 20-10\Practica2XVN\FormXVN\bin\Debug\CapaLN.xml
+D:\Practica 20-10\Practica2XVN\FormXVN\bin\Debug\CapaNE.pdb
+D:\Practica 20-10\Practica2XVN\FormXVN\bin\Debug\CapaNE.xml
+D:\Practica 20-10\Practica2XVN\FormXVN\bin\Debug\capaDA.pdb
+D:\Practica 20-10\Practica2XVN\FormXVN\bin\Debug\capaDA.xml
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbprojResolveAssemblyReference.cache
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Articulos.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Categoria.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Marcas.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificacionMasiva.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarArticulo.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCategoria.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarMarca.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaCategoria.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaMarca.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoArticulo.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProducto.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProveedor.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CompraDetalle.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Compras.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCompra.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Clientes.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ConsultarCliente.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.AgregarServicio.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscClienteVtas.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarOrdTrab.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EntregaDeEquipos.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EnviarMail.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaServicios.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Modificar_Estado_OT.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarServicio.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.OrdenDeTRabajo.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerOrdenTRab.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarProveedor.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarProveedor.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistoricoStock.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ImprimirMinStock.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarStock.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarStock.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionArticulo.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Sotck.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerMinStock.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Habilitar_o_Deshabilitar_Usuario.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Login.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.XVN.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCliente.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarUsuario.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Resources.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Proveedores.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCliente.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarUsuario.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaDePreciosULim.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoPr.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistorialPrecios.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecios.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosProveedor.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarPrecios.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Usuarios.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ActualizacionPrecios.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecVta.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosVentas.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarClientePresupuesto.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoVenta.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CliBuscVta.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetalleVta.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoPresupuestos.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PlanillaPresupuestos.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarVenta.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionarServicio.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Ventas.resources
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.GenerateResource.Cache
+D:\Practica 20-10\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetallePresupuesto.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetallePresupuesto.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarPresupuestos.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Cobro.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PlanillaCaja.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoVentasxAr.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ComprasxArticulo.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoComprasxAr.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Rentabilidad.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoRentabilidad.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe.config
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.exe
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.xml
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.pdb
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.pdb
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.xml
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.exe
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.exe
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\capaDA.exe
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.pdb
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.xml
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.pdb
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.xml
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\capaDA.pdb
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\capaDA.xml
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\Interop.AcroPDFLib.dll
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbprojResolveAssemblyReference.cache
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.ResolveComReference.cache
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Articulos.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Categoria.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Marcas.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificacionMasiva.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarArticulo.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCategoria.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarMarca.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaCategoria.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaMarca.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoArticulo.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ComprasxArticulo.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoComprasxAr.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoRentabilidad.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoVentasxAr.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Rentabilidad.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VentasxArticulo.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProducto.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProveedor.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CompraDetalle.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Compras.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCompra.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Clientes.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ConsultarCliente.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.AgregarServicio.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscClienteVtas.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarOrdTrab.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EntregaDeEquipos.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EnviarMail.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaServicios.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Modificar_Estado_OT.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarServicio.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.OrdenDeTRabajo.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerOrdenTRab.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarProveedor.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarProveedor.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistoricoStock.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ImprimirMinStock.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarStock.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarStock.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionArticulo.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Sotck.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerMinStock.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Habilitar_o_Deshabilitar_Usuario.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ManualUsuario.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Login.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.XVN.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCliente.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarUsuario.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Resources.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Proveedores.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCliente.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarUsuario.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaDePreciosULim.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoPr.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistorialPrecios.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecios.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosProveedor.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarPrecios.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Usuarios.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ActualizacionPrecios.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecVta.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosVentas.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarClientePresupuesto.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarPresupuestos.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoVenta.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CliBuscVta.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Cobro.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetallePresupuesto.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetalleVta.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoPresupuestos.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PlanillaCaja.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PlanillaPresupuestos.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarVenta.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionarServicio.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Ventas.resources
+D:\Practica 20-10\10-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.GenerateResource.Cache
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\Interop.AcroPDFLib.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.ResolveComReference.cache
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ManualUsuario.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BackupRestore.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe.config
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.ResolveComReference.cache
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.exe
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.xml
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.pdb
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbprojResolveAssemblyReference.cache
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Articulos.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Categoria.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Marcas.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificacionMasiva.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarArticulo.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCategoria.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarMarca.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaCategoria.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaMarca.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoArticulo.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ComprasxArticulo.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoComprasxAr.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoRentabilidad.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoVentasxAr.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Rentabilidad.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VentasxArticulo.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProducto.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProveedor.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CompraDetalle.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Compras.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCompra.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Clientes.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ConsultarCliente.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.AgregarServicio.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscClienteVtas.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarOrdTrab.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EntregaDeEquipos.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EnviarMail.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaServicios.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Modificar_Estado_OT.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarServicio.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.OrdenDeTRabajo.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerOrdenTRab.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarProveedor.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarProveedor.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistoricoStock.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ImprimirMinStock.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarStock.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarStock.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionArticulo.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Sotck.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerMinStock.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BackupRestore.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CONEXION.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Habilitar_o_Deshabilitar_Usuario.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ManualUsuario.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Login.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.XVN.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCliente.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarUsuario.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Resources.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Proveedores.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCliente.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarUsuario.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaDePreciosULim.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoPr.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistorialPrecios.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecios.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosProveedor.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarPrecios.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Usuarios.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ActualizacionPrecios.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecVta.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosVentas.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarClientePresupuesto.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarPresupuestos.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoVenta.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CliBuscVta.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Cobro.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetallePresupuesto.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetalleVta.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoPresupuestos.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PlanillaCaja.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PlanillaPresupuestos.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarVenta.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionarServicio.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Ventas.resources
+D:\Practica 3 15-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.GenerateResource.Cache
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.pdb
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.xml
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\capaDA.exe
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.exe
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.exe
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\capaDA.pdb
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\capaDA.xml
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.pdb
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.xml
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.pdb
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.xml
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\Interop.AcroPDFLib.dll
+D:\Practica 3 15-11\Practica2XVN\FormXVN\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\compilacion\FormXVN.exe.config
+D:\compilacion\FormXVN.exe
+D:\compilacion\FormXVN.pdb
+D:\compilacion\FormXVN.xml
+C:\compilacion\FormXVN.exe.config
+C:\compilacion\FormXVN.exe
+C:\compilacion\FormXVN.pdb
+C:\compilacion\FormXVN.xml
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PuntoVenta.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.AgregarPtoVenta.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPuntoVenta.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerdetalleArtículo.resources
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\EnvDTE.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\stdole.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\EnvDTE.xml
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListadoArticulos.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\RdlCompile.cache
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\RdlCompile.compiled
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Reporteventasxarticulo.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReporteVentasxArt.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.reporterentabilidad.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReporteComprasxARti.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe.config
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.ResolveComReference.cache
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.exe
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.xml
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.pdb
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.pdb
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.xml
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\capaDA.exe
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.exe
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.exe
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\capaDA.pdb
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\capaDA.xml
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.pdb
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.xml
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.pdb
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.xml
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\Interop.AcroPDFLib.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbprojResolveAssemblyReference.cache
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Articulos.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Categoria.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Marcas.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificacionMasiva.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarArticulo.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCategoria.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarMarca.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaCategoria.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaMarca.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoArticulo.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerdetalleArtículo.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ComprasxArticulo.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoComprasxAr.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoRentabilidad.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoVentasxAr.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Rentabilidad.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Reporteventasxarticulo.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProducto.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProveedor.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CompraDetalle.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Compras.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCompra.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Clientes.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ConsultarCliente.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.AgregarServicio.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscClienteVtas.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarOrdTrab.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EntregaDeEquipos.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EnviarMail.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaServicios.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Modificar_Estado_OT.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarServicio.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.OrdenDeTRabajo.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerOrdenTRab.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarProveedor.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarProveedor.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistoricoStock.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ImprimirMinStock.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarStock.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarStock.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionArticulo.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Sotck.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerMinStock.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BackupRestore.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Habilitar_o_Deshabilitar_Usuario.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ManualUsuario.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Login.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.XVN.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCliente.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarUsuario.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Resources.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Proveedores.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCliente.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarUsuario.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaDePreciosULim.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoPr.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistorialPrecios.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecios.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosProveedor.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarPrecios.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Usuarios.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ActualizacionPrecios.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecVta.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosVentas.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListadoArticulos.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReporteComprasxARti.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.reporterentabilidad.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReporteVentasxArt.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.AgregarPtoVenta.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarClientePresupuesto.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarPresupuestos.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoVenta.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CliBuscVta.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Cobro.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetallePresupuesto.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetalleVta.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPuntoVenta.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoPresupuestos.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PlanillaCaja.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PlanillaPresupuestos.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PuntoVenta.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarVenta.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionarServicio.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Ventas.resources
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.GenerateResource.Cache
+D:\PRACTICA 23-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReportePresupuesto.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReportePresupuesto.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReporteSTOCK1.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReportOT2.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe.config
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.ResolveComReference.cache
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.exe
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.xml
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.pdb
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.pdb
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.xml
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\capaDA.exe
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.exe
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.exe
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\capaDA.pdb
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\capaDA.xml
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.pdb
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.xml
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.pdb
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.xml
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\Interop.AcroPDFLib.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbprojResolveAssemblyReference.cache
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Articulos.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Categoria.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Marcas.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificacionMasiva.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarArticulo.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCategoria.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarMarca.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaCategoria.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaMarca.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoArticulo.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerdetalleArtículo.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ComprasxArticulo.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoComprasxAr.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoRentabilidad.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoVentasxAr.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Rentabilidad.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Reporteventasxarticulo.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProducto.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProveedor.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CompraDetalle.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Compras.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCompra.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Clientes.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ConsultarCliente.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.AgregarServicio.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscClienteVtas.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarOrdTrab.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EntregaDeEquipos.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EnviarMail.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaServicios.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Modificar_Estado_OT.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarServicio.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.OrdenDeTRabajo.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerOrdenTRab.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarProveedor.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarProveedor.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistoricoStock.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ImprimirMinStock.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarStock.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarStock.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionArticulo.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Sotck.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerMinStock.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BackupRestore.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Habilitar_o_Deshabilitar_Usuario.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ManualUsuario.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Login.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.XVN.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCliente.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarUsuario.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Resources.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Proveedores.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCliente.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarUsuario.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaDePreciosULim.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoPr.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistorialPrecios.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecios.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosProveedor.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarPrecios.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Usuarios.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ActualizacionPrecios.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecVta.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosVentas.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListadoArticulos.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReporteComprasxARti.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReportePresupuesto.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.reporterentabilidad.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReporteSTOCK1.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReporteVentasxArt.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReportOT2.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.AgregarPtoVenta.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarClientePresupuesto.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarPresupuestos.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoVenta.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CliBuscVta.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Cobro.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetallePresupuesto.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetalleVta.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPuntoVenta.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoPresupuestos.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PlanillaCaja.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PlanillaPresupuestos.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PuntoVenta.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarVenta.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionarServicio.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Ventas.resources
+D:\Practica 25-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.GenerateResource.Cache
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe.config
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.ResolveComReference.cache
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.exe
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.xml
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.pdb
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.pdb
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\FormXVN.xml
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\capaDA.exe
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.exe
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.exe
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\capaDA.pdb
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\capaDA.xml
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.pdb
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\CapaLN.xml
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.pdb
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\CapaNE.xml
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\Interop.AcroPDFLib.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbprojResolveAssemblyReference.cache
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Articulos.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Categoria.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Marcas.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificacionMasiva.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarArticulo.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCategoria.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarMarca.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaCategoria.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevaMarca.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoArticulo.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerdetalleArtículo.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ComprasxArticulo.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoComprasxAr.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoRentabilidad.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.GraficoVentasxAr.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Rentabilidad.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Reporteventasxarticulo.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProducto.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProveedor.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CompraDetalle.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Compras.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCompra.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Clientes.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ConsultarCliente.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.AgregarServicio.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscClienteVtas.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarOrdTrab.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EntregaDeEquipos.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.EnviarMail.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaServicios.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Modificar_Estado_OT.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarServicio.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.OrdenDeTRabajo.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerOrdenTRab.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarProveedor.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarProveedor.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistoricoStock.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ImprimirMinStock.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarStock.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarStock.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionArticulo.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Sotck.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.VerMinStock.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BackupRestore.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Habilitar_o_Deshabilitar_Usuario.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ManualUsuario.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Login.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.XVN.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarCliente.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarUsuario.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Resources.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Proveedores.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarCliente.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarUsuario.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListaDePreciosULim.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoPr.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.HistorialPrecios.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecios.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosProveedor.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarPrecios.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Usuarios.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ActualizacionPrecios.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPrecVta.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PreciosVentas.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ListadoArticulos.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReporteComprasxARti.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReportePresupuesto.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.reporterentabilidad.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReporteSTOCK1.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReporteVentasxArt.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ReportOT2.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.AgregarPtoVenta.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarClientePresupuesto.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarPresupuestos.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.BuscarProductoVenta.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.CliBuscVta.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Cobro.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetallePresupuesto.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.DetalleVta.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.ModificarPuntoVenta.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.NuevoPresupuestos.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PlanillaCaja.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PlanillaPresupuestos.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PuntoVenta.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.RegistrarVenta.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.SeleccionarServicio.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.Ventas.resources
+D:\Practica-30-11\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.GenerateResource.Cache
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.AdministracionProyectos.resources
+C:\Practica3\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.PRacticaProfesionalizante.resources
+D:\Practica 10-12\Practica2XVN\FormXVN\bin\Debug\FormXVN.exe.config
+D:\Practica 10-12\Practica2XVN\FormXVN\obj\x86\Debug\Interop.AcroPDFLib.dll
+D:\Practica 10-12\Practica2XVN\FormXVN\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+D:\Practica 10-12\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.vbproj.ResolveComReference.cache
+D:\Practica 10-12\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.exe
+D:\Practica 10-12\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.xml
+D:\Practica 10-12\Practica2XVN\FormXVN\obj\x86\Debug\FormXVN.pdb

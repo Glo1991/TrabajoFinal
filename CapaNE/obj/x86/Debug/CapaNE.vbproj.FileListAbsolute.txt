@@ -1,0 +1,54 @@
+C:\Users\Invitado\Documents\Visual Studio 2010\Projects\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.Resources.resources
+C:\Users\Invitado\Documents\Visual Studio 2010\Projects\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.vbproj.GenerateResource.Cache
+C:\Users\Invitado\Documents\Visual Studio 2010\Projects\Practica2XVN\CapaNE\bin\Debug\CapaNE.exe
+C:\Users\Invitado\Documents\Visual Studio 2010\Projects\Practica2XVN\CapaNE\bin\Debug\CapaNE.pdb
+C:\Users\Invitado\Documents\Visual Studio 2010\Projects\Practica2XVN\CapaNE\bin\Debug\CapaNE.xml
+C:\Users\Invitado\Documents\Visual Studio 2010\Projects\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.exe
+C:\Users\Invitado\Documents\Visual Studio 2010\Projects\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.xml
+C:\Users\Invitado\Documents\Visual Studio 2010\Projects\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.pdb
+C:\Users\Invitado\Desktop\Practica2XVN\CapaNE\bin\Debug\CapaNE.exe
+C:\Users\Invitado\Desktop\Practica2XVN\CapaNE\bin\Debug\CapaNE.pdb
+C:\Users\Invitado\Desktop\Practica2XVN\CapaNE\bin\Debug\CapaNE.xml
+C:\Users\Invitado\Desktop\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.Resources.resources
+C:\Users\Invitado\Desktop\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.vbproj.GenerateResource.Cache
+C:\Users\Invitado\Desktop\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.exe
+C:\Users\Invitado\Desktop\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.xml
+C:\Users\Invitado\Desktop\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.pdb
+C:\Practica3\Practica2XVN\CapaNE\bin\Debug\CapaNE.exe
+C:\Practica3\Practica2XVN\CapaNE\bin\Debug\CapaNE.pdb
+C:\Practica3\Practica2XVN\CapaNE\bin\Debug\CapaNE.xml
+C:\Practica3\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.vbproj.AssemblyReference.cache
+C:\Practica3\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.Resources.resources
+C:\Practica3\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.vbproj.GenerateResource.cache
+C:\Practica3\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.vbproj.CoreCompileInputs.cache
+C:\Practica3\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.exe
+C:\Practica3\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.xml
+C:\Practica3\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.pdb
+D:\BD\nuevo\Practica2XVN\CapaNE\bin\Debug\CapaNE.exe
+D:\BD\nuevo\Practica2XVN\CapaNE\bin\Debug\CapaNE.pdb
+D:\BD\nuevo\Practica2XVN\CapaNE\bin\Debug\CapaNE.xml
+D:\BD\nuevo\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.vbproj.AssemblyReference.cache
+D:\BD\nuevo\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.Resources.resources
+D:\BD\nuevo\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.vbproj.GenerateResource.cache
+D:\BD\nuevo\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.vbproj.CoreCompileInputs.cache
+D:\BD\nuevo\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.exe
+D:\BD\nuevo\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.xml
+D:\BD\nuevo\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.pdb
+D:\Practica 20-10\Practica2XVN\CapaNE\bin\Debug\CapaNE.exe
+D:\Practica 20-10\Practica2XVN\CapaNE\bin\Debug\CapaNE.pdb
+D:\Practica 20-10\Practica2XVN\CapaNE\bin\Debug\CapaNE.xml
+D:\Practica 20-10\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.vbprojResolveAssemblyReference.cache
+D:\Practica 20-10\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.Resources.resources
+D:\Practica 20-10\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.vbproj.GenerateResource.Cache
+D:\Practica 20-10\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.exe
+D:\Practica 20-10\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.xml
+D:\Practica 20-10\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.pdb
+D:\Practica 3 15-11\Practica2XVN\CapaNE\bin\Debug\CapaNE.exe
+D:\Practica 3 15-11\Practica2XVN\CapaNE\bin\Debug\CapaNE.pdb
+D:\Practica 3 15-11\Practica2XVN\CapaNE\bin\Debug\CapaNE.xml
+D:\Practica 3 15-11\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.vbprojResolveAssemblyReference.cache
+D:\Practica 3 15-11\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.Resources.resources
+D:\Practica 3 15-11\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.vbproj.GenerateResource.Cache
+D:\Practica 3 15-11\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.exe
+D:\Practica 3 15-11\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.xml
+D:\Practica 3 15-11\Practica2XVN\CapaNE\obj\x86\Debug\CapaNE.pdb
