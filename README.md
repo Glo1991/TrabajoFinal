@@ -1,4 +1,4 @@
-# Practica Profesionalizante XVN
+# Trabajo Final
 Este proyecto es parte de mi trabajo final de la carrera Analista de Sistemas, es una aplicación de escritorio desarrollada con VB.Net y SQL.
 El modelo de desarrollo que se utilizó es la programación por capas.
 
